@@ -1,0 +1,3 @@
+- [Testcafe docs](https://devexpress.github.io/testcafe/documentation/)
+- [Page Model Pattern](https://alligator.io/angular/e2e-testing-testcafe/)
+- 
